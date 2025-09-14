@@ -7,7 +7,7 @@ The dashboard provides key insights into revenue trends, ticket sales, top-perfo
 
 ## 📊 Dashboard Preview  
 
-[![Dashboard Preview](./assets/dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNmU5ZjI0OTctODUwMC00MmE5LWFmOWYtODM2NTIzYTJiZDY1IiwidCI6IjdjOTU4OGNlLTNmNDMtNGY4NC05MTA2LTRjMzRkNjkzYmFiMSIsImMiOjEwfQ%3D%3D)  
+[![Dashboard Preview](./Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNmU5ZjI0OTctODUwMC00MmE5LWFmOWYtODM2NTIzYTJiZDY1IiwidCI6IjdjOTU4OGNlLTNmNDMtNGY4NC05MTA2LTRjMzRkNjkzYmFiMSIsImMiOjEwfQ%3D%3D)  
 
 👉 Click the image to explore the **interactive Power BI dashboard**.  
 
